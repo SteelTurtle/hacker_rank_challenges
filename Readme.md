@@ -11,8 +11,6 @@ Author – [DannyBoy](https://www.linkedin.com/in/dannyboy/) – Feel free to ge
 
 This repository is freely redistributable and not subject to any license.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
 ## Release History
 
 * 0.0.1
