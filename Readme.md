@@ -23,7 +23,7 @@ This repository is freely redistributable and not subject to any license.
 
 Do you want to keep adding solutions to this repository? Help yourself!
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/SteelTurtle/hacker_rank_challenges.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
